@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """
 AIToolsUK — Daily Blog Post Generator
 Generates a 1,200-word SEO-optimised HTML blog post using Claude,
@@ -26,7 +26,7 @@ BLOG_DIR  = os.path.join(SITE_DIR, "blog")
 INDEX     = os.path.join(BLOG_DIR, "index.html")
 SITEMAP   = os.path.join(SITE_DIR, "sitemap.xml")
 ENV_FILE  = os.path.join(os.path.dirname(SITE_DIR), ".env")  # ~/jarvis/.env
-BASE_URL  = "https://aitoolsuk.co.uk"
+BASE_URL  = "https://aitoolsuk.com"
 
 # ---------------------------------------------------------------------------
 # Topic pool  (slug, title, category, emoji, gradient-css)
@@ -232,7 +232,7 @@ def generate_body(client, slug, title, category):
     today_year = datetime.date.today().year
     aff_ctx = build_affiliate_context(title)
 
-    prompt = f"""Write a 1,200-word SEO-optimised blog post for AIToolsUK (aitoolsuk.co.uk), a UK small business AI tools review site.
+    prompt = f"""Write a 1,200-word SEO-optimised blog post for AIToolsUK (aitoolsuk.com), a UK small business AI tools review site.
 
 ARTICLE DETAILS
 Title: {title}

@@ -10,4 +10,4 @@ Disallow: /api/
 Crawl-delay: 10
 
 # Sitemap location
-Sitemap: https://aitoolsuk.co.uk/sitemap.xml
+Sitemap: https://aitoolsuk.com/sitemap.xml
