@@ -1,108 +1,71 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-          http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-  <!-- Core pages -->
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://aitoolsuk.com/</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>https://aitoolsuk.com/about.html</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://aitoolsuk.com/contact.html</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- Blog index -->
-  <url>
-    <loc>https://aitoolsuk.com/blog/</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <!-- Blog articles -->
-  <url>
-    <loc>https://aitoolsuk.com/blog/best-ai-tools-uk-small-business.html</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.95</priority>
-  </url>
-
-  <url>
-    <loc>https://aitoolsuk.com/blog/ai-chatbots-uk-retailers.html</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://aitoolsuk.com/blog/making-tax-digital-ai-uk.html</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://aitoolsuk.com/blog/ai-content-writing-uk-small-business.html</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://aitoolsuk.com/blog/uk-gdpr-ai-tools-2026.html</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Legal pages — low priority, excluded from editorial search results -->
-  <url>
-    <loc>https://aitoolsuk.com/privacy.html</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.2</priority>
-  </url>
-
-  <url>
-    <loc>https://aitoolsuk.com/terms.html</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.2</priority>
-  </url>
-
-  <url>
-    <loc>https://conor-coder.github.io/ai-tools-uk/blog/ai-tools-for-small-business-uk.html</loc>
-    <lastmod>2026-06-08</lastmod>
-  </url>
-  <url>
-    <loc>https://conor-coder.github.io/ai-tools-uk/blog/best-ai-software-uk-2026.html</loc>
-    <lastmod>2026-06-08</lastmod>
-  </url>
-  <url>
-    <loc>https://conor-coder.github.io/ai-tools-uk/blog/ai-for-small-business-owners-uk.html</loc>
-    <lastmod>2026-06-08</lastmod>
+    <loc>https://conor-coder.github.io/ai-tools-uk/about.html</loc>
+    <lastmod>2026-06-19</lastmod>
   </url>
   <url>
     <loc>https://conor-coder.github.io/ai-tools-uk/blog/ai-automation-tools-for-uk-small-businesses.html</loc>
-    <lastmod>2026-06-08</lastmod>
+    <lastmod>2026-06-19</lastmod>
+  </url>
+  <url>
+    <loc>https://conor-coder.github.io/ai-tools-uk/blog/ai-chatbots-uk-retailers.html</loc>
+    <lastmod>2026-06-19</lastmod>
+  </url>
+  <url>
+    <loc>https://conor-coder.github.io/ai-tools-uk/blog/ai-content-writing-uk-small-business.html</loc>
+    <lastmod>2026-06-19</lastmod>
   </url>
   <url>
     <loc>https://conor-coder.github.io/ai-tools-uk/blog/ai-customer-service-tools-uk.html</loc>
-    <lastmod>2026-06-08</lastmod>
+    <lastmod>2026-06-19</lastmod>
+  </url>
+  <url>
+    <loc>https://conor-coder.github.io/ai-tools-uk/blog/ai-for-small-business-owners-uk.html</loc>
+    <lastmod>2026-06-19</lastmod>
+  </url>
+  <url>
+    <loc>https://conor-coder.github.io/ai-tools-uk/blog/ai-tools-for-small-business-uk.html</loc>
+    <lastmod>2026-06-19</lastmod>
+  </url>
+  <url>
+    <loc>https://conor-coder.github.io/ai-tools-uk/blog/best-ai-software-uk-2026.html</loc>
+    <lastmod>2026-06-19</lastmod>
+  </url>
+  <url>
+    <loc>https://conor-coder.github.io/ai-tools-uk/blog/best-ai-tools-uk-small-business.html</loc>
+    <lastmod>2026-06-19</lastmod>
+  </url>
+  <url>
+    <loc>https://conor-coder.github.io/ai-tools-uk/blog/how-much-does-ai-actually-cost-uk-small-businesses-in-2026.html</loc>
+    <lastmod>2026-06-19</lastmod>
+  </url>
+  <url>
+    <loc>https://conor-coder.github.io/ai-tools-uk/blog/index.html</loc>
+    <lastmod>2026-06-19</lastmod>
+  </url>
+  <url>
+    <loc>https://conor-coder.github.io/ai-tools-uk/blog/making-tax-digital-ai-uk.html</loc>
+    <lastmod>2026-06-19</lastmod>
+  </url>
+  <url>
+    <loc>https://conor-coder.github.io/ai-tools-uk/blog/uk-gdpr-ai-tools-2026.html</loc>
+    <lastmod>2026-06-19</lastmod>
+  </url>
+  <url>
+    <loc>https://conor-coder.github.io/ai-tools-uk/contact.html</loc>
+    <lastmod>2026-06-19</lastmod>
+  </url>
+  <url>
+    <loc>https://conor-coder.github.io/ai-tools-uk/index.html</loc>
+    <lastmod>2026-06-19</lastmod>
+  </url>
+  <url>
+    <loc>https://conor-coder.github.io/ai-tools-uk/privacy.html</loc>
+    <lastmod>2026-06-19</lastmod>
+  </url>
+  <url>
+    <loc>https://conor-coder.github.io/ai-tools-uk/terms.html</loc>
+    <lastmod>2026-06-19</lastmod>
   </url>
 </urlset>
